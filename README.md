@@ -1,13 +1,13 @@
-<h2 align="center">Saudações 🖖, me chamo Rafaela Mumbach Buenos!</h2>
+<h2 align="center">Saudações 🖖, me chamo Gabriel dos Santos!</h2>
 <h3 align="center">Estudante do segundo semestre de Análise e Desenvolvimento de Sistemas - UCS </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HttpsGabrisan&label=Profile%20views&color=FF69B4&style=flat" alt="HttpsGabrisan" /> </p>
 
 - 🌱 Aprendendo fundamentos de banco de dados, programação web e frameworks
 
-- 💻 Iniciando em UX design
+- 💻 Aprofundando em JavaScrypt e Python
 
-- ✉️ rafaelambuenos@gmail.com
+- ✉️ gabriel_santos029@outlook.com
 
 <h4 align="left">Linguagens e tecnologias </h4>
 <div style="display: inline_block"><br>
@@ -25,7 +25,7 @@
 
 
  
-  <a href="https://www.linkedin.com/in/rafaela-mumbach-buenos-8b00b8275" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabriel-santos-0b1564230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HttpsGabrisan&theme=transparent&show_icons=true&locale=en&layout=compact" alt="HttpsGabrisan" /></p>
